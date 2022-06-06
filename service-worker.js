@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hochuchoto.github.io/precache-manifest.8851647b72530ba1a45124e11ce02c21.js"
+  "/hochuchoto.github.io/precache-manifest.50c8a3d6add248c97db6c5854ad078e0.js"
 );
 
 self.addEventListener('message', (event) => {
